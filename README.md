@@ -1,3 +1,3 @@
 # hello_world
 git init
-saving changes form dumy_branch
+saving changes form dummy_branch
